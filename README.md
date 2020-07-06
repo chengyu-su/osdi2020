@@ -1,4 +1,3 @@
-<<<<<<< 0510507
 # My OSDI 2020
 
 ## Author
@@ -7,7 +6,6 @@
 | --- | ----------- | --- | --- |
 |`0510507`| `zhengwei6` | `吳政緯` | wzhengwei6@gmail.com |
 
-=======
 # Operation System Design and Implementation Course 2020
 
 [中文](讀我.md)
@@ -37,6 +35,3 @@ repeat 3-5 to submit later homework/lab.
 
 - forked repository: https://github.com/csielee/osdi2020
 - pull request: https://github.com/GrassLab/osdi2020/pull/2
-
-## Happy Coding ~
->>>>>>> master
